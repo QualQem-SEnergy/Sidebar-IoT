@@ -8346,3 +8346,16 @@ a[data-toggle="collapse"] {
 .tomy{
   margin-left: 300px;
 }
+
+.mari {
+    margin-left: 100px;
+  }
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px; }
